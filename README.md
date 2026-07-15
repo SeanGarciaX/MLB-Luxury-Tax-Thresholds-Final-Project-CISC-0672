@@ -12,4 +12,17 @@ Working on my MLB Luxury Tax project taught me that **data analytics** and **bus
 
 <img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/c805d1a1-a3f8-470b-80aa-91f7619ed231" />
 
+## 🚀 Getting Started
+
+1. 📂 Open the file **`MLB-Luxury-Tax-Thresholds-Final-Project-CISC-0672.ipynb`**.
+2. ☁️ Click **Open in Colab**.
+3. ⏭️ Ignore the step labeled **"Mount Google Drive"**.
+4. ▶️ Run each code cell to load the data and initialize the interactive visualizations.
+5. 🎛️ Use the **sliders**, **dropdown menus**, and **checkboxes** to explore the notebook and customize the analyses.
+6. 📖 Read the accompanying text throughout the notebook for additional context, explanations, and key insights.
+
+
+
+
+
 
