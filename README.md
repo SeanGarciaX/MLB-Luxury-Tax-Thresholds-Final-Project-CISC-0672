@@ -10,3 +10,6 @@ I created this project for my **CISC 0672: Data Visualization** course during my
 
 Working on my MLB Luxury Tax project taught me that **data analytics** and **business intelligence** involve much more than creating charts or calculating statistics. I learned how to collect data from multiple sources, clean and organize it into a usable dataset, explore relationships between variables, and identify meaningful trends that answer real-world questions. Through this process, I gained experience transforming raw data into actionable insights, communicating findings through interactive visualizations, and demonstrating how data can support informed financial and strategic decision-making. 🚀
 
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/c805d1a1-a3f8-470b-80aa-91f7619ed231" />
+
+
