@@ -1,5 +1,12 @@
-# MLB-Luxury-Tax-Thresholds-Final-Project-CISC-0672
-This project takes 13 years of MLB Luxury Tax Data and MLB Teams' Spending to determine which teams have exceeded the Competitive Balance Tax for each season. The notebook also correlates spending with World Series outcomes and finds that team's that spend more throughout the season have a higher likelihood of victory in the last dance. 
+# MLB Luxury Tax Thresholds Final Project (CISC 0672) ⚾📊
 
-Academic Context
-This was a project I created for my CISC 0672 Data Visualizations class in my Master's Degree program when I was first learning how to use many of tools I use today such as Python, Pandas, Plotly, Altair, and IPythonWidgits. 
+This project analyzes **13 years of MLB luxury tax data** and team payrolls to identify which organizations exceeded the **Competitive Balance Tax (CBT)** threshold each season. The notebook also explores the relationship between team spending and World Series success, revealing that teams with higher payrolls generally have a greater likelihood of winning baseball's biggest prize. 🏆
+
+## 🎓 Academic Context
+
+I created this project for my **CISC 0672: Data Visualization** course during my Master's degree program. It was one of my first opportunities to work extensively with many of the technologies I continue to use today, including **Python**, **pandas**, **Plotly**, **Altair**, and **ipywidgets**. 💻
+
+## 📈 What I Learned
+
+Working on my MLB Luxury Tax project taught me that **data analytics** and **business intelligence** involve much more than creating charts or calculating statistics. I learned how to collect data from multiple sources, clean and organize it into a usable dataset, explore relationships between variables, and identify meaningful trends that answer real-world questions. Through this process, I gained experience transforming raw data into actionable insights, communicating findings through interactive visualizations, and demonstrating how data can support informed financial and strategic decision-making. 🚀
+
